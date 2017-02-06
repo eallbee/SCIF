@@ -1,4 +1,4 @@
-package hello;
+package scifbatch;
 
 import javax.sql.DataSource;
 

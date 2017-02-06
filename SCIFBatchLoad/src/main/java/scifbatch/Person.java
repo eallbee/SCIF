@@ -1,4 +1,4 @@
-package hello;
+package scifbatch;
 
 public class Person {
     private String lastName;
